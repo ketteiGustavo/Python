@@ -1,7 +1,7 @@
 # exercicio de calculadora
 # para aprender a fazer a calculadora
 """ Calculadora com while"""
-
+#fazer anotações e melhorar
 number_1 = 0
 number_2 = 0
 
