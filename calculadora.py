@@ -51,4 +51,4 @@ while True:
         break
     print('continuando...')
 
-print('Saindo')
+print('Saindo do programa')
