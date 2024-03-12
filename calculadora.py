@@ -52,3 +52,5 @@ while True:
     print('continuando...')
 
 print('Saindo do programa')
+
+# nunca mexer de qualquer forma no git
