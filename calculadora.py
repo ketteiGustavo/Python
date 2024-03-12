@@ -53,4 +53,4 @@ while True:
 
 print('Saindo do programa')
 
-# nunca mexer de qualquer forma no git
+print('Parece que tudou voltou ao normal')
