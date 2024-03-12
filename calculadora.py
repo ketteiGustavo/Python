@@ -53,4 +53,3 @@ while True:
 
 print('Saindo do programa')
 
-print('nova alteracao')
