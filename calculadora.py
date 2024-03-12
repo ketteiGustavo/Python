@@ -52,5 +52,3 @@ while True:
     print('continuando...')
 
 print('Saindo do programa')
-
-print('Parece que tudou voltou ao normal')
